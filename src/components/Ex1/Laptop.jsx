@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Macbook from '../assets/img/lt_macbook.png';
-import Rog from '../assets/img/lt_rog.png';
-import HpOmen from '../assets/img/lt_hp.png';
-import Lenovo from '../assets/img/lt_lenovo.png';
+import Macbook from '../../assets/img/lt_macbook.png';
+import Rog from '../../assets/img/lt_rog.png';
+import HpOmen from '../../assets/img/lt_hp.png';
+import Lenovo from '../../assets/img/lt_lenovo.png';
 class Laptop extends Component {
     render() {
         return (

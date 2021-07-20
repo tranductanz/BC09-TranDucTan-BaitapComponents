@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import iphoneX from '../assets/img/sp_iphoneX.png';
-import vivo from '../assets/img/sp_vivo850.png';
-import note from '../assets/img/sp_note7.png';
-import blackBerry from '../assets/img/sp_blackberry.png';
+import iphoneX from '../../assets/img/sp_iphoneX.png';
+import vivo from '../../assets/img/sp_vivo850.png';
+import note from '../../assets/img/sp_note7.png';
+import blackBerry from '../../assets/img/sp_blackberry.png';
 import { BackgroundColor } from 'chalk';
 class Phone extends Component {
     render() {

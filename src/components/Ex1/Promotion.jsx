@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import promotePic1 from '../assets/img/promotion_1.png';
-import promotePic2 from '../assets/img/promotion_2.png';
-import promotePic3 from '../assets/img/promotion_3.jpg';
+import promotePic1 from '../../assets/img/promotion_1.png';
+import promotePic2 from '../../assets/img/promotion_2.png';
+import promotePic3 from '../../assets/img/promotion_3.jpg';
 class Promotion extends Component {
     render() {
         return (
